@@ -4,32 +4,26 @@
 </div>
 
 <details open align="center">
-  <summary><h2>✨ About Me ✨</h2></summary>
-  <div align="center" style="display:flex; align-items: center; justify-content: center; gap: 20px; padding: 20px; flex-direction: row; width: 500px;">
-    <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="GIF" width="150" style="border-radius: 10px;" />
-    <p style="text-align:left; margin:20px;">
-      <strong>Hello!</strong> I'm glad you're here.🤗 <br />
+  <summary align="center"><h2>✨ About Me ✨</h2></summary>
+    <p align="center">I'm glad you're here.🤗</p>
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="GIF" width="150" />
+    <p align="left">
       I'm an enthusiastic Front-End Developer dedicated to crafting <em>beautiful</em> and <em>user-friendly</em> web applications.👾 <br />
       Whether you're a developer, designer, or just passing by, feel free to explore my projects, ideas, and contributions.<br />
-      Together, we can build something <strong>extraordinary</strong>!🔥 🚀
+      Together, we can build something <strong>extraordinary</strong>!🔥 🚀<br />
     </p>
-  </div>
+  <br>
+  <br>
+  <br>
+</details>
+
+<details open align="center">
+  <summary><h2>✨ My Skills ✨</h2></summary>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,firebase,js,nextjs,react,tailwind,ts" />
+  </a>
+</p>
 </details>
 
 
-
-
-<!--
-**negarrezazadeh/negarrezazadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
