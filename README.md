@@ -6,7 +6,7 @@
 <details open align="center">
   <summary align="center"><h2>✨ About Me ✨</h2></summary>
     <p align="center">I'm glad you're here.🤗</p>
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="GIF" width="150" />
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="GIF" width="150" />
     <p align="left">
       I'm an enthusiastic Front-End Developer dedicated to crafting <em>beautiful</em> and <em>user-friendly</em> web applications.👾 <br />
       Whether you're a developer, designer, or just passing by, feel free to explore my projects, ideas, and contributions.<br />
