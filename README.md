@@ -29,9 +29,6 @@
   </p>
   <br>
 <br>
-<br>
-<br>
-<br>
 </details>
 
 <details open align="center">
