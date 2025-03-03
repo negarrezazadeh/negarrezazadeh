@@ -49,14 +49,6 @@
   <br>
 </details>
 
-<a href="https://github.com/negarrezazadeh" align="center">
-  <img alt="Negar's GitHub Activity Graph" 
-       src="https://github-readme-activity-graph.vercel.app/graph/?username=negarrezazadeh&bg_color=000000&title_color=E9DAF7FF&color=E9DAF7FF&line=6C3483&point=ffffff&hide_border=true&custom_title=Negar's⠀GitHub⠀Activity⠀Graph" />
-  <br>
-  <br>
-  <br>
-</a>
-
 <details open align="center">
   <summary><h2>✨ Let's Connect ✨</h2></summary>
   <br>
