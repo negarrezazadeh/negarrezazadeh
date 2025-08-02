@@ -24,7 +24,7 @@
   <p align="left">
     🌱 I’m always learning and exploring new technologies to improve my skills.<br>
     🎓 I’m currently pursuing a degree in Software Engineering.<br>
-    👨‍💻 I have 2 years of experience in Front-End Development.<br>
+    👨‍💻 I have 4 years of experience in Front-End Development.<br>
     🤝 I enjoy working in collaborative team environments and sharing ideas to create amazing projects.<br>
   </p>
   <br>
